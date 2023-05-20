@@ -1184,7 +1184,7 @@ z-index: 1;
 
 
 
-.zxc {
+.vse {
     position: relative;
     top: 250px;
     left: 100px;
@@ -1204,8 +1204,8 @@ z-index: 1;
     order: 0;
     flex-grow: 1;
 }
- 
-.zxc2 {
+
+.vse2 {
     position: relative;
     top: 500px;
     left: 100px;
@@ -1226,7 +1226,7 @@ z-index: 1;
     flex-grow: 1;
 }
 
-.zxc3 {
+.vse3 {
     position: relative;
     top: 750px;
     left: 100px;
@@ -1455,9 +1455,3 @@ z-index: 1;
     border: none;
     color: #6B7A99;
 }
-
-          
-
-
-
-
